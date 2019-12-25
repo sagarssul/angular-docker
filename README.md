@@ -10,7 +10,8 @@ Install docker from https://www.docker.com/products/docker-desktop
 ### Create docker image locally and test 
     1. Install node from https://nodejs.org/en/download/
     2. Install angular globally "npm install -g @angular/cli"
-    4. Build docker image "npm run build:docker"
-    5. Run docker image "npm run start:docker" and navigate to http://localhost:3000/
+    3. Build docker image "npm run build:docker"
+    4. Run docker image "npm run start:docker"
+    5. Navigate to http://localhost:3000/ 
 
 
