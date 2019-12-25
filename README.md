@@ -1,2 +1,2 @@
-# angular-docker
+# Angular Docker
 Dockerizing angular application
